@@ -26,4 +26,5 @@ Tipo de VAriavel:
             var sobrenome = "Rage"
 
             GIT/GITHUB:
-            Para iniciar o git nós usamos o "git init" no console
+            Para o git nós podemos utilizar o metodo antigo (com o console) e o atual usando na IDE, seja a intellij ou o VS Code
+            sendo o atual um conhecimento basico do que se deve estar fazendo, é tudo um teste atras de teste por agora
